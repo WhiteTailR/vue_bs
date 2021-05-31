@@ -1,0 +1,32 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "name": "小黑",
+      "tel": "15061102571",
+      "address": "福建福州"
+    },
+    {
+      "id": 2,
+      "name": "张三",
+      "ename": "San Zhang",
+      "assistant_code": "zs",
+      "type": "CustomerType",
+      "contacts": 15061102572,
+      "mobile": 15061102572,
+      "tel": "15061102572",
+      "address": "江苏溧阳"
+    },
+    {
+      "id": 3,
+      "name": "李四",
+      "ename": "San Zhang",
+      "assistant_code": "zs",
+      "type": "CustomerType",
+      "contacts": 15061102573,
+      "mobile": 15061102573,
+      "tel": "15061102573",
+      "address": "江苏苏州"
+    }
+  ]
+}
